@@ -1,1 +1,1 @@
-# learn-jdbc
+# Estudos sobre Java JDBC da Udemy
